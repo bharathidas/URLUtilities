@@ -80,4 +80,10 @@ Sorts the query parameters alphabetically by key.
 
 https://github.com/bharathidas/URLUtilities/issues
 
+![Screenshot_1](https://github.com/bharathidas/URLUtilities/assets/23263603/38df6878-2697-4941-8896-9cbcd0872078)
+
+![Screenshot_2](https://github.com/bharathidas/URLUtilities/assets/23263603/04f57bfa-557e-4b1c-883b-cdf89fb37e60)
+
+![Screenshot_3](https://github.com/bharathidas/URLUtilities/assets/23263603/5b54fe63-0149-4655-b2b8-c0cf3a5c08f5)
+
 
